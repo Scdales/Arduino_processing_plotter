@@ -1,11 +1,11 @@
 # Arduino processing plotter
 Plots integers received via serial
 
-##Software:
-###Processing 3
+## Software:
+### Processing 3
 https://processing.org/download/
 
-###Graphica
+### Graphica
 https://jagracar.com/grafica.php
 You can download the library here, or install it via the menus inside of Processing.
 
